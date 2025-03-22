@@ -1,3 +1,5 @@
+Make sure you download Pygame-ce 
+
 # Includes
 
 - Input Manager
